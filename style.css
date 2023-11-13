@@ -181,7 +181,7 @@ footer{
 }
 /*Small Device layout template 
 Try with your phone**/
-@media screen and (max-width: 785px) {
+@media screen and (max-width: 565px) {
     header{
         background: rgb(187, 209, 154);
     }
