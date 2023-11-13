@@ -108,9 +108,10 @@ header nav ul li a {
 .product .item-display{
     display: grid;
     grid-gap: 10px ;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
 }
 .item-display>div{
+    width: 300px;
     border-radius: 10px;
     border: 1px groove green;
 }
